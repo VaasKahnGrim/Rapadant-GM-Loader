@@ -1,0 +1,13 @@
+"starwarsrp"
+{
+	"base"		"sandbox"
+	"title"  "starwarsrp"
+	"version"   "2.7.0"
+	"menusystem"	"1"
+	"author_name"   "Vaas Kahn Grim"
+	"author_email"  "no"
+	"author_url"    "http://www.rapadantnetworks.org/"
+	"icon"  ""
+	"info"  "Rapadant Networks, a great place to call home."
+	"hide"  "0"
+}

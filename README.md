@@ -1,4 +1,4 @@
-(DISCONTINUED AS OF 5 MONTHS AGO DUE TO BEING MADE OBSOLETE BY VAASNET. NO SUPPORT WILL BE GIVEN, USE AT OWN RISK. THANKS TO A CERTAIN TWAT ON DISCORD FOR LETTING ME KNOW THIS REPO EVEN EXISTS)
+OBSOLETE!!! Move over to using https://github.com/VaasKahnGrim/Moduler_Gamemode_Base As Soon As Possible
 
 # Rapadant_GM_Loader
 A proprietary loader system used by Rapadant Networks
